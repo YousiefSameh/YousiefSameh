@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, Express**
 
-- 👨‍💻 All of my projects are available at [https://yousiefsamehportfolio.web.app/](https://yousiefsamehportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://yousief-sameh.pages.dev/](https://yousief-sameh.pages.dev/)
 
 - 💬 Ask me about **React, Tailwind**
 
