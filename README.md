@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousief Sameh</h1>
 <h3 align="center">A passionate frontend developer from Alexandria, Egypt</h3>
 
-- 🌱 I’m currently learning **NextJS, Express**
+- 🌱 I’m currently learning **NodeJS, Express**
 
 - 👨‍💻 All of my projects are available at [https://yousief-sameh.pages.dev/](https://yousief-sameh.pages.dev/)
 
